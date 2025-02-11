@@ -16,6 +16,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 ### 🚗 Vehicle Monitoring System
 ![Vehicle](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Vehicle+Monitoring+System)
+
 **Tracks:** Speed, location, accelerometer data, and environmental conditions  
 ⚠ **Features:** Overspeed detection, accident detection, and drink-and-drive alerts  
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
@@ -25,6 +26,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 ### 🏠 Home Automation System
 ![Vehicle](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Home+Automation+System)
+
 **Built with:** ESP32, WiFi, and ESP Rainmaker  
 🎙 **Smart Integration:** Alexa & Google Home support  
 🖥 **Control Options:** IR remote, manual switch, MQTT-based app
@@ -34,6 +36,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 ### 🌾 Farm Monitoring System
 ![Vehicle](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Farm+Monitoring+System)
+
 **Wireless Communication:** ESP-NOW protocol  
 🌡 **Monitors:** Temperature, humidity, and soil moisture levels  
 📶 **Connectivity:** Works without WiFi for real-time farm management 
@@ -43,6 +46,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 ### 🔒 IoT-Based Shop Security System
 ![Vehicle](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Shop+Security+System) 
+
 **Remote Control & Monitoring:** Blynk and a custom Bluetooth app  
 🚨 **Security Features:** Unauthorized entry detection, alerts, and emails  
 🔊 **Alarm System:** Activates buzzer for security alarms  
