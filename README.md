@@ -22,6 +22,18 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
 [📹 Watch Video](https://youtu.be/El2pmsjQwp4?si=nw0PML3DW09zK7VJ)
 
+[Github Link](https://github.com/salman1397/Vehicle_Monitoring_System.git)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/Vehicle_Monitoring_System)
+
+
+<a href="https://github.com/salman1397">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40">
+</a>
+
+
+
+
 ---
 
 ### 🏠 Home Automation System
@@ -70,12 +82,11 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 ## ⚡ Tech Stack
 
-🔹 **Microcontrollers:** STM32, ESP32, Arduino, PIC, ATmega328  
-🔹 **Programming:** C, C++, Embedded C, Python  
-🔹 **IoT Protocols:** MQTT, ESP-NOW, Modbus, UART, I2C, SPI  
-🔹 **Operating Systems:** FreeRTOS, Linux  
-🔹 **Cloud & Connectivity:** Firebase, Blynk, AWS IoT  
-🔹 **Hardware Design:** PCB Design, Sensors, Actuators  
+🔹 **Microcontrollers:** STM32, ESP32, Arduino, ATmega328  
+🔹 **Programming:** C, C++, Embedded C
+🔹 **IoT Protocols:** MQTT, ESP-NOW, UART, I2C, SPI  
+🔹 **Operating Systems:** FreeRTOS  
+🔹 **Cloud & Connectivity:** Firebase, Blynk, AWS IoT 
 
 ---
 
