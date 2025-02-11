@@ -2,6 +2,13 @@
 
 ### 🔧 Embedded Systems Engineer | IoT Developer | RTOS & Bare-Metal Programming Enthusiast
 
+---
+
+
+![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Embedded+Systems+Engineer;IoT+Developer;RTOS+%26+Bare-Metal+Programming;Always+Learning+New+Tech+🚀)
+
+---
+
 I am an **Embedded Systems Engineer** with a passion for designing and developing **IoT solutions, microcontroller-based systems, and automation projects**. I have experience working with **STM32, ESP32, RTOS, Linux, and bare-metal programming**. I love solving real-world problems through innovation and technology!
 
 ---
@@ -60,13 +67,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 🔹 **Cloud & Connectivity:** Firebase, Blynk, AWS IoT  
 🔹 **Hardware Design:** PCB Design, Sensors, Actuators  
 
----
 
-## 🌟 Animated Profile Badge
-
-![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Embedded+Systems+Engineer;IoT+Developer;RTOS+%26+Bare-Metal+Programming;Always+Learning+New+Tech+🚀)
-
----
 
 ## 📫 Let's Connect!
 
