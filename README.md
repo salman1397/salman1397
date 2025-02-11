@@ -22,6 +22,8 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 
 
+
+
 ![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Home+Automation+System)
 ### 🔹 Home Automation System
 🏠 **Built with:** ESP32, WiFi, and ESP Rainmaker  
@@ -29,11 +31,16 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 🖥 **Control Options:** IR remote, manual switch, MQTT-based app  
 
 
+
+
+
 ![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Farm+Monitoring+System)
 ### 🔹 Farm Monitoring System
 🌾 **Wireless Communication:** ESP-NOW protocol  
 🌡 **Monitors:** Temperature, humidity, and soil moisture levels  
 📶 **Connectivity:** Works without WiFi for real-time farm management  
+
+
 
 
 
@@ -45,11 +52,14 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 
 
+
+
 ![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Fire+Fighting+Robot)
 ### 🔹 Firefighting Robot
 🔥 **Equipped with:** Fire extinguisher and ESP32-CAM  
 🛑 **Autonomous Detection:** Fire sensors and camera vision  
 🕹 **Control:** Remotely operated for emergency situations  
+
 
 
 
