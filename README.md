@@ -22,16 +22,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
 [📹 Watch Video](https://youtu.be/El2pmsjQwp4?si=nw0PML3DW09zK7VJ)
 
-[Github Link](https://github.com/salman1397/Vehicle_Monitoring_System.git)
-
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/Vehicle_Monitoring_System)
-
-
-<a href="https://github.com/salman1397">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40">
-</a>
-
-
 
 
 ---
@@ -92,8 +83,18 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 ## 📫 Let's Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/salman151397)  
-🌍 [Portfolio](#)  
-📧 **Email:** salman151397@gmail.com  
+<p align="left">
+<a href="https://www.linkedin.com/in/salman151397">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 200px;"></span>
+<a href="https://www.youtube.com/@SmartTechInsights-e9j">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 200px;"></span>
+<a href="mailto:salman151397@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40">
+</a>
+</p>
 
 🚀 *Always eager to learn and take on new challenges in embedded systems and IoT!*
