@@ -77,7 +77,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 🔹 **Programming:** C, C++, Embedded C
 🔹 **IoT Protocols:** MQTT, ESP-NOW, UART, I2C, SPI  
 🔹 **Operating Systems:** FreeRTOS  
-🔹 **Cloud & Connectivity:** Firebase, Blynk, AWS IoT 
+🔹 **Cloud & Connectivity:** ESP Rainmaker, Blynk, AWS IoT 
 
 ---
 
