@@ -13,29 +13,41 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 ⚠ **Features:** Overspeed detection, accident detection, and drink-and-drive alerts  
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
 
+![Vehicle Monitoring](https://media.giphy.com/media/xT1XGZpQT7aGxFdFJm/giphy.gif)
+
 ### 🔹 Home Automation System
 🏠 **Built with:** ESP32, WiFi, and ESP Rainmaker  
 🎙 **Smart Integration:** Alexa & Google Home support  
 🖥 **Control Options:** IR remote, manual switch, MQTT-based app  
+
+![Home Automation](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)
 
 ### 🔹 Farm Monitoring System
 🌾 **Wireless Communication:** ESP-NOW protocol  
 🌡 **Monitors:** Temperature, humidity, and soil moisture levels  
 📶 **Connectivity:** Works without WiFi for real-time farm management  
 
+![Farm Monitoring](https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif)
+
 ### 🔹 IoT-Based Shop Security System
 🔒 **Remote Control & Monitoring:** Blynk and a custom Bluetooth app  
 🚨 **Security Features:** Unauthorized entry detection, alerts, and emails  
 🔊 **Alarm System:** Activates buzzer for security alarms  
+
+![Security System](https://media.giphy.com/media/3orieXKJ9bLRF1d0L6/giphy.gif)
 
 ### 🔹 Firefighting Robot
 🔥 **Equipped with:** Fire extinguisher and ESP32-CAM  
 🛑 **Autonomous Detection:** Fire sensors and camera vision  
 🕹 **Control:** Remotely operated for emergency situations  
 
+![Firefighting Robot](https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif)
+
 ### 🔹 Human Detection with HLK LD2410 Sensor
 👤 **Sensor Integration:** UART communication with STM32  
 🎯 **Use Case:** Enhanced human detection for security & automation  
+
+![Human Detection](https://media.giphy.com/media/3o7btNa5BivB7hJfug/giphy.gif)
 
 ---
 
