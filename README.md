@@ -14,47 +14,46 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 ---
 
 ## 🚀 Projects
-
+![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Vehicle+Monitoring+System🚀)
 ### 🔹 Vehicle Monitoring System
 🚗 **Tracks:** Speed, location, accelerometer data, and environmental conditions  
 ⚠ **Features:** Overspeed detection, accident detection, and drink-and-drive alerts  
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
 
-![Vehicle Monitoring](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ2bzgwc21hcmFxbGYxYzR2bGM0MHZxbHdna3M2YmV1cDB0N29nNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7VzgMsB6FLCilwS30v/giphy.gif)
+
 
 ### 🔹 Home Automation System
 🏠 **Built with:** ESP32, WiFi, and ESP Rainmaker  
 🎙 **Smart Integration:** Alexa & Google Home support  
 🖥 **Control Options:** IR remote, manual switch, MQTT-based app  
 
-![Home Automation](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)
 
 ### 🔹 Farm Monitoring System
 🌾 **Wireless Communication:** ESP-NOW protocol  
 🌡 **Monitors:** Temperature, humidity, and soil moisture levels  
 📶 **Connectivity:** Works without WiFi for real-time farm management  
 
-![Farm Monitoring](https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif)
+
 
 ### 🔹 IoT-Based Shop Security System
 🔒 **Remote Control & Monitoring:** Blynk and a custom Bluetooth app  
 🚨 **Security Features:** Unauthorized entry detection, alerts, and emails  
 🔊 **Alarm System:** Activates buzzer for security alarms  
 
-![Security System](https://media.giphy.com/media/3orieXKJ9bLRF1d0L6/giphy.gif)
+
 
 ### 🔹 Firefighting Robot
 🔥 **Equipped with:** Fire extinguisher and ESP32-CAM  
 🛑 **Autonomous Detection:** Fire sensors and camera vision  
 🕹 **Control:** Remotely operated for emergency situations  
 
-![Firefighting Robot](https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif)
+
 
 ### 🔹 Human Detection with HLK LD2410 Sensor
 👤 **Sensor Integration:** UART communication with STM32  
 🎯 **Use Case:** Enhanced human detection for security & automation  
 
-![Human Detection](https://media.giphy.com/media/3o7btNa5BivB7hJfug/giphy.gif)
+
 
 ---
 
@@ -73,6 +72,6 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 
 💼 [LinkedIn](https://www.linkedin.com/in/salman151397)  
 🌍 [Portfolio](#)  
-📧 **Email:** your.email@example.com  
+📧 **Email:** salman151397@gmail.com  
 
 🚀 *Always eager to learn and take on new challenges in embedded systems and IoT!*
