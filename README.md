@@ -5,7 +5,7 @@
 ---
 
 
-![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Embedded+Systems+Engineer;IoT+Developer;RTOS+%26+Bare-Metal+Programming;Always+Learning+New+Tech+🚀)
+![Embedded Systems](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Embedded+Systems+Engineer;IoT+Developer;FreeRTOS+%26+Bare-Metal+Programming;Always+Learning+New+Tech+🚀)
 
 ---
 
@@ -20,7 +20,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 ⚠ **Features:** Overspeed detection, accident detection, and drink-and-drive alerts  
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
 
-![Vehicle Monitoring](https://media.giphy.com/media/xT1XGZpQT7aGxFdFJm/giphy.gif)
+![Vehicle Monitoring]([https://media.giphy.com/media/xT1XGZpQT7aGxFdFJm/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ2bzgwc21hcmFxbGYxYzR2bGM0MHZxbHdna3M2YmV1cDB0N29nNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif))
 
 ### 🔹 Home Automation System
 🏠 **Built with:** ESP32, WiFi, and ESP Rainmaker  
