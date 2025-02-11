@@ -87,11 +87,11 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 <a href="https://www.linkedin.com/in/salman151397">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
 </a>
-<span style="display:inline-block; width: 200px;"></span>
+<span style="display:inline-block; width: 250px;"></span>
 <a href="https://www.youtube.com/@SmartTechInsights-e9j">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
 </a>
-<span style="display:inline-block; width: 200px;"></span>
+<span style="display:inline-block; width: 250px;"></span>
 <a href="mailto:salman151397@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40">
 </a>
