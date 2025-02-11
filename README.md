@@ -19,6 +19,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 🚗 **Tracks:** Speed, location, accelerometer data, and environmental conditions  
 ⚠ **Features:** Overspeed detection, accident detection, and drink-and-drive alerts  
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
+(https://youtu.be/El2pmsjQwp4?si=nw0PML3DW09zK7VJ)
 
 
 
