@@ -94,7 +94,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
 </a>
 <span style="display:inline-block; width: 250px;"></span>
-<a href="https://www.youtube.com/@SmartTechInsights-e9j">
+<a href="https://www.youtube.com/@salmanarefinsardar">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
 </a>
 <span style="display:inline-block; width: 250px;"></span>
