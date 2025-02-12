@@ -33,7 +33,10 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 **Built with:** ESP32, WiFi, and ESP Rainmaker  
 🎙 **Smart Integration:** Alexa & Google Home support  
 🖥 **Control Options:** IR remote, manual switch, MQTT-based app
+
 [📹 Watch Video](https://youtu.be/RzM9oUeDlkI?si=M98ipS3cUN4vHmty)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/IoT_Home_Automation)
 
 ---
 
@@ -43,7 +46,10 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 **Wireless Communication:** ESP-NOW protocol  
 🌡 **Monitors:** Temperature, humidity, and soil moisture levels  
 📶 **Connectivity:** Works without WiFi for real-time farm management 
+
 [📹 Watch Video](https://youtu.be/MPLpTi3KcIU?si=qCOW5yv41Y_Z0cM1)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/Farm_Monitoring_ESP_NOW)
 
 ---
 
