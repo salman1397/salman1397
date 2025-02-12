@@ -24,7 +24,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 [📹 Watch Video](https://youtu.be/El2pmsjQwp4?si=w0mSCeSA-XkcspuE)
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/Vehicle_Monitoring_System)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/salman1397/Vehicle_Monitoring_System)
 
 
 ---
@@ -61,6 +61,8 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 **Remote Control & Monitoring:** Blynk and a custom Bluetooth app  
 🚨 **Security Features:** Unauthorized entry detection, alerts, and emails  
 🔊 **Alarm System:** Activates buzzer for security alarms  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/Shop_Security_System)
 
 ---
 
