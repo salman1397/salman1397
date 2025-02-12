@@ -20,7 +20,9 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 **Tracks:** Speed, location, accelerometer data, and environmental conditions  
 ⚠ **Features:** Overspeed detection, accident detection, and drink-and-drive alerts  
 📡 **Communication:** Sends emergency SMS and notifications via a GSM module  
-[📹 Watch Video](https://youtu.be/El2pmsjQwp4?si=nw0PML3DW09zK7VJ)
+
+[📹 Watch Video](https://youtu.be/El2pmsjQwp4?si=w0mSCeSA-XkcspuE)
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/Vehicle_Monitoring_System)
 
@@ -34,7 +36,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 🎙 **Smart Integration:** Alexa & Google Home support  
 🖥 **Control Options:** IR remote, manual switch, MQTT-based app
 
-[📹 Watch Video](https://youtu.be/RzM9oUeDlkI?si=M98ipS3cUN4vHmty)
+[📹 Watch Video](https://youtu.be/RzM9oUeDlkI?si=BobEk7W_oGtBJIqm)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/IoT_Home_Automation)
 
@@ -47,7 +49,7 @@ I am an **Embedded Systems Engineer** with a passion for designing and developin
 🌡 **Monitors:** Temperature, humidity, and soil moisture levels  
 📶 **Connectivity:** Works without WiFi for real-time farm management 
 
-[📹 Watch Video](https://youtu.be/MPLpTi3KcIU?si=qCOW5yv41Y_Z0cM1)
+[📹 Watch Video](https://youtu.be/MPLpTi3KcIU?si=ivk-mRPaPRaFVcpR)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salman1397/Farm_Monitoring_ESP_NOW)
 
